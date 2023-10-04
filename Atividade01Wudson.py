@@ -1,4 +1,4 @@
-#ATIVIDADE 01 LUCAS MARTINS CIRILO P1-TARDE
+#ATIVIDADE 01 - LUCAS MARTINS - CIRILO - P1 - TARDE
 
 #Resposta 1
 
@@ -34,4 +34,7 @@ print("Resultado:", multiplicacao)
 
 divisao = 16 / 2
 print("Resultado:", divisao)
+
+
+# %%
 
